@@ -1,0 +1,14 @@
+myenv/
+__pycache__/
+*.pyc
+.env
+*.env
+.vscode/
+.idea/
+.DS_Store
+*.sqlite3
+*.db
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
